@@ -34,7 +34,7 @@ Murillo Rodrigues
 
 --------------------------
 ## Resources
-- Binder link to use Jupyter Notebook
+- Binder link to use Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agladstein/workshops.git/main?filepath=intro_stdpopsim%2FIntro_stdpopsim.ipynb)
 - [stdpopsim Documentation](https://stdpopsim.readthedocs.io/en/stable/index.html)
 - [stdpopsim GitHub](https://github.com/popsim-consortium/stdpopsim)
 
