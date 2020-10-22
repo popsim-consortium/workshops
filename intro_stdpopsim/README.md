@@ -22,3 +22,20 @@ Murillo Rodrigues
 **Recommended prerequisites:** Basic Unix command line and Python.
 
 **Code of Conduct**
+
+--------------------------
+## Recommended Screen setup
+
+### Single screen
+
+### Double screen
+
+--------------------------
+## Resources
+- Binder link to use Jupyter Notebook
+- [stdpopsim Documentation](https://stdpopsim.readthedocs.io/en/stable/index.html)
+- [stdpopsim GitHub](https://github.com/popsim-consortium/stdpopsim)
+
+--------------------------
+## How to install locally
+Not recommended for the workshop, unless you are experienced with installing Python packages.
