@@ -5,6 +5,8 @@
 Important!
 At least 15 minutes before the workshop click this Binder link to load the Jupyter Binder. It may take up to 15 minutes to load!
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agladstein/workshops.git/main?filepath=intro_stdpopsim%2FIntro_stdpopsim.ipynb)
+
 -------------------------
 **Instructor:** Ariella Gladstein, postdoc at University of North Carolina, Chapel Hill
 **Helpers:** 
