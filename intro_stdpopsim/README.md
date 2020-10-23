@@ -3,9 +3,16 @@
 ## Setup for Workshop
 
 Important!
-At least 15 minutes before the workshop click this Binder link to load the Jupyter Binder. It may take up to 15 minutes to load!
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agladstein/workshops.git/main?filepath=intro_stdpopsim%2FIntro_stdpopsim.ipynb)
+At least 15 minutes before the workshop:
+1. Click the JupyterHub link (coming soon)
+2. Log in with your user name 
+   - you user name is your email address
+   - your password will be whatever you first input as a password
+3. In the top right corner click "New" -> "terminal" (this will open a terminal window)
+4. Clone the GitHub repository
+```
+git clone https://github.com/popsim-consortium/workshops.git
+```
 
 -------------------------
 **Instructor:** Ariella Gladstein, postdoc at University of North Carolina, Chapel Hill
@@ -24,6 +31,7 @@ Murillo Rodrigues
 **Recommended prerequisites:** Basic Unix command line and Python.
 
 **Code of Conduct**
+https://github.com/popsim-consortium/stdpopsim/blob/master/CODE_OF_CONDUCT.md
 
 --------------------------
 ## Recommended Screen setup
@@ -41,3 +49,6 @@ Murillo Rodrigues
 --------------------------
 ## How to install locally
 Not recommended for the workshop, unless you are experienced with installing Python packages.
+
+Follow the [conda](https://stdpopsim.readthedocs.io/en/stable/installation.html#conda) or [pip](https://stdpopsim.readthedocs.io/en/stable/installation.html#pip) installation documentation.
+In addition you will need to install the other packages listed in the [environment.yml](https://github.com/popsim-consortium/workshops/blob/main/environment.yml).
