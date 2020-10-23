@@ -15,10 +15,10 @@ git clone https://github.com/popsim-consortium/workshops.git
 ```
 
 -------------------------
-**Instructor:** Ariella Gladstein, postdoc at University of North Carolina, Chapel Hill
+**Instructor:** Ariella Gladstein, postdoc at University of North Carolina, Chapel Hill  
 **Helpers:** 
-Andrew Kern 
-Peter Ralph
+Andrew Kern, 
+Peter Ralph,
 Murillo Rodrigues
 
 **Date:** October 26th 2020
