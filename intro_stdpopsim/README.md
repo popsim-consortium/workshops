@@ -42,7 +42,7 @@ https://github.com/popsim-consortium/stdpopsim/blob/master/CODE_OF_CONDUCT.md
 
 --------------------------
 ## Resources
-- Binder link to use Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agladstein/workshops.git/main?filepath=intro_stdpopsim%2FIntro_stdpopsim.ipynb)
+- Binder link to use Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/popsim-consortium/workshops.git/main?filepath=intro_stdpopsim%2FIntro_stdpopsim.ipynb)
 - [stdpopsim Documentation](https://stdpopsim.readthedocs.io/en/stable/index.html)
 - [stdpopsim GitHub](https://github.com/popsim-consortium/stdpopsim)
 
