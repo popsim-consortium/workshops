@@ -6,7 +6,7 @@ Important!
 At least 15 minutes before the workshop:
 1. Click the JupyterHub link (coming soon)
 2. Log in with your user name 
-   - you user name is your email address
+   - your user name is your email address
    - your password will be whatever you first input as a password
 3. In the top right corner click "New" -> "terminal" (this will open a terminal window)
 4. Clone the GitHub repository
@@ -22,9 +22,9 @@ Peter Ralph,
 Murillo Rodrigues
 
 **Date:** October 26th 2020
-**Time:** 10-11am PDT; 1-2pm EDT; 7-8pm CET; 4-5am AEDT (10/27)
+**Time:** 10-11am PDT; 1-2pm EDT; 6-7pm CET; 4-5am AEDT (10/27)
 
-**Short Summary of topic:** In this free, hands on virtual workshop we will go over the basics of using the stdpopsim library to simulate published demographic models from a variety of organisms. We will cover how to naviate the library catalog, how to simulate using the Python API and command line interface, and an example analysis on the simulated data.
+**Short Summary of topic:** In this free, hands on virtual workshop we will go over the basics of using the stdpopsim library to simulate published demographic models from a variety of organisms. We will cover how to navigate the library catalog, how to simulate using the Python API and command line interface, and an example analysis on the simulated data.
 
 **Requirements:** An internet browser
 
