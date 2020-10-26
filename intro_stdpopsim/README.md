@@ -13,6 +13,8 @@ At least 15 minutes before the workshop:
 ```
 git clone https://github.com/popsim-consortium/workshops.git
 ```
+*Note:* If you are asked for username/password when cloning the repository,
+double-check the URL - you probably have a typo.
 
 -------------------------
 **Instructor:** Ariella Gladstein, postdoc at University of North Carolina, Chapel Hill  
