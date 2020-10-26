@@ -4,7 +4,7 @@
 
 Important!
 At least 15 minutes before the workshop:
-1. Click the JupyterHub link (coming soon)
+1. Click the JupyterHub link (http://149.165.156.55/)
 2. Log in with your user name 
    - your user name is your email address
    - your password will be whatever you first input as a password
@@ -32,13 +32,6 @@ Murillo Rodrigues
 
 **Code of Conduct**
 https://github.com/popsim-consortium/stdpopsim/blob/master/CODE_OF_CONDUCT.md
-
---------------------------
-## Recommended Screen setup
-
-### Single screen
-
-### Double screen
 
 --------------------------
 ## Resources
