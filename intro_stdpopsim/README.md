@@ -47,3 +47,8 @@ Not recommended for the workshop, unless you are experienced with installing Pyt
 
 Follow the [conda](https://stdpopsim.readthedocs.io/en/stable/installation.html#conda) or [pip](https://stdpopsim.readthedocs.io/en/stable/installation.html#pip) installation documentation.
 In addition you will need to install the other packages listed in the [environment.yml](https://github.com/popsim-consortium/workshops/blob/main/environment.yml).
+
+--------------------------
+## Recording link
+https://uoregon.zoom.us/rec/share/PWU57vtDTqbleYdAbuD0oiQIKfc2cq75Y6jd8uPO-fAXvyHuWS2n-sMq5I3EH1gH.dID6FaAy19XRzX49 
+Passcode: +Ej57x1Z 
