@@ -4,7 +4,7 @@
 
 Important!
 At least 15 minutes before the workshop:
-1. Click the JupyterHub link (http://149.165.156.55/)
+1. Click the JupyterHub link (http://167.71.183.31/)
 2. Log in with your user name 
    - your user name is your email address
    - your password will be whatever you first input as a password
@@ -17,15 +17,24 @@ git clone https://github.com/popsim-consortium/workshops.git
 double-check the URL - you probably have a typo.
 
 -------------------------
-**Instructor:** Ariella Gladstein, postdoc at University of North Carolina, Chapel Hill  
-**Helpers:** 
-Andrew Kern, 
-Peter Ralph,
-Murillo Rodrigues
+## December Workshop Series
 
-**Date:** October 26th 2020
-**Time:** 10-11am PDT; 1-2pm EDT; 6-7pm CET; 4-5am AEDT (10/27)
+### Transatlantic
+**Date and Time:** Monday, December 7th, 5-6:30PM CET; 8-9:30AM PST; 11AM-12:30PM EST; 3-4:30AM AEDT (Dec. 8th)  
+**Instructor:** Jerome Kelleher, University of Oxford  
+**Helpers:** Ariella Gladstein, David Peede, Peter Ralph
 
+### Americas
+**Date and Time:** Wednesday, December 9th, 10-11:30AM PST; 1-2:30PM EST; 7-8:30PM CET; 5-6:30AM AEDT (Dec. 10th)  
+**Instructor:** Andy Kern, University of Oregon  
+**Helpers:** Peter Ralph, David Peede, Ilan Gronau
+
+### Australasia
+**Date and Time:** Friday, December 11th, 12-1:30PM AEDT; 2-3:30AM CET; 5-6:30PM PST (Dec. 10th); 8-9:30PM EST (Dec. 10th)  
+**Instructor:** Georgia Tsambos, University of Melbourne   
+**Helpers:** Murillo Rodrigues, Peter Ralph
+
+-------------------------
 **Short Summary of topic:** In this free, hands on virtual workshop we will go over the basics of using the stdpopsim library to simulate published demographic models from a variety of organisms. We will cover how to navigate the library catalog, how to simulate using the Python API and command line interface, and an example analysis on the simulated data.
 
 **Requirements:** An internet browser
@@ -50,5 +59,6 @@ In addition you will need to install the other packages listed in the [environme
 
 --------------------------
 ## Recording link
+Workshop 1, October 26 2020, Instructor: Ariella Gladstein  
 https://uoregon.zoom.us/rec/share/PWU57vtDTqbleYdAbuD0oiQIKfc2cq75Y6jd8uPO-fAXvyHuWS2n-sMq5I3EH1gH.dID6FaAy19XRzX49 
 Passcode: +Ej57x1Z 
