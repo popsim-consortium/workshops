@@ -16,6 +16,18 @@ git clone https://github.com/popsim-consortium/workshops.git
 *Note:* If you are asked for username/password when cloning the repository,
 double-check the URL - you probably have a typo.
 
+
+### Screen setup
+
+In this workshop we will be using four different windows - 
+The zoom call, the GitHub and JupyterHub, the stdpopsim catalog, and Slack.
+We highly recommend during the workshop participants have two monitors available. 
+If you only have one monitor available, you may choose to flip through the necessary windows,
+or you can have all four windows up at once. 
+Here is a recommendation on how to arrange your screen with all four windows.
+
+![](images/workshop_windows.png)
+
 -------------------------
 ## December Workshop Series
 
