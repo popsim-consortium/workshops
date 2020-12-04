@@ -4,7 +4,7 @@
 
 Important!
 At least 15 minutes before the workshop:
-1. Click the JupyterHub link (TBA)
+1. Click the JupyterHub link (http://167.71.183.31/)
 2. Log in with your user name 
    - your user name is your email address
    - your password will be whatever you first input as a password
@@ -22,7 +22,7 @@ double-check the URL - you probably have a typo.
 ### Transatlantic
 **Date and Time:** Monday, December 7th, 5-6:30PM CET; 8-9:30AM PST; 11AM-12:30PM EST; 3-4:30AM AEDT (Dec. 8th)  
 **Instructor:** Jerome Kelleher, University of Oxford  
-**Helpers:** Ariella Gladstein, Davide Peede, Peter Ralph
+**Helpers:** Ariella Gladstein, David Peede, Peter Ralph
 
 ### Americas
 **Date and Time:** Wednesday, December 9th, 10-11:30AM PST; 1-2:30PM EST; 7-8:30PM CET; 5-6:30AM AEDT (Dec. 10th)  
