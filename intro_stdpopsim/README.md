@@ -74,3 +74,7 @@ In addition you will need to install the other packages listed in the [environme
 Workshop 1, October 26 2020, Instructor: Ariella Gladstein  
 https://uoregon.zoom.us/rec/share/PWU57vtDTqbleYdAbuD0oiQIKfc2cq75Y6jd8uPO-fAXvyHuWS2n-sMq5I3EH1gH.dID6FaAy19XRzX49 
 Passcode: +Ej57x1Z 
+
+Workshop 3, December 9 2020, Instructor: Andrew Kern
+https://uoregon.zoom.us/rec/share/kRLFZ79l91cQjxEfQGFIi7dh4uPLWCJbVx-Q4UcRGusxC7O9WFxnFavM9u8o8cfb.0h9vzQsHR5okoviD 
+Passcode: D#uHH#2X 
