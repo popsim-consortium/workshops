@@ -4,7 +4,7 @@
 
 Important!
 At least 15 minutes before the workshop:
-1. Click the JupyterHub link (TBD)
+1. Click the JupyterHub link (http://165.232.136.70/)
 2. Log in with your user name 
    - your user name is your email address
    - your password will be whatever you first input as a password
