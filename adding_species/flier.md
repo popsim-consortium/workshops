@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Growing the stdpopsim Zoo
-description: what you need to do to attend the hackathon and get your species added to the stdpopsim catalogue
+description: what you need to do to attend the hackathon and get your species or model added to the stdpopsim catalogue
 ---
 
 
 # Details
 
 The hackathon's goal will be to expand the number of species
-in the stdpopsim catalogue,
+and demographic models in the stdpopsim catalogue,
 and will take place **April 8-9, 2021**, online.
 Times TBD.
 
@@ -18,7 +18,7 @@ To express interest:
 
 and we'll contact you with details.
 
-To help make sure we get the species added,
+To help make sure we get the species or model added,
 **you** will need to:
 
 - have used stdpopsim or attend an *introduction to stdpopsim* workshop
@@ -33,7 +33,15 @@ To help make sure we get the species added,
 - a demographic model, or at least an estimate of effective population size
 - a mutation rate estimate, or some reasonable default (e.g., 1e-8)
 
-You can still attend, and help, if you don't have a particular species in mind.
+... or, the **demographic model** you'd like to add should have:
+
+- been published
+- a clearly described model
+- parameter values for all parameters
+
+
+You can still attend, and help, if you don't have a particular species or 
+demographic model in mind.
 
 # "How to contribute" workshop, week of March 11th
 
