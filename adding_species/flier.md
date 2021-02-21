@@ -21,7 +21,8 @@ and we'll contact you with details.
 To help make sure we get the species or model added,
 **you** will need to:
 
-- have used stdpopsim or attend an *introduction to stdpopsim* workshop
+- have used [stdpopsim](https://stdpopsim.readthedocs.io/en/stable/) or attend an 
+[*introduction to stdpopsim* workshop](https://github.com/popsim-consortium/workshops/tree/main/intro_stdpopsim)
 - attend our *contributing* workshop (see below)
 - be able to use git and bash
 - be moderately familiar with coding and debugging python.
@@ -56,6 +57,17 @@ Before this workshop, you should have:
 
 - a github account, and 
 - introductory knowledge of git, as you might get from a short "intro to git" tutorial.
+
+# External Resources
+
+- [Basic Bash by Software Carpentry](http://swcarpentry.github.io/shell-novice/)
+- [Basic Python by Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/)
+- Basic Git
+    - [Introduction to Git by Software Carpentry](https://swcarpentry.github.io/git-novice/)
+    - [Learn Git Banching](https://learngitbranching.js.org/) (a very fun interactive git game)
+- Basic GitHub
+    - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
+    - [GitHub for collaboration by EarthLab](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/)
 
 
 # Questions?
