@@ -10,12 +10,7 @@ You may also need the other packages listed in the [environment.yml](https://git
 If you run into any problems, ask for help in the #workshops or #newbie-help channels on Slack (popsimgroup.slack.com).
 
 At least 15 minutes before the workshop:
-1. Click the JupyterHub link (TBA)
-2. Log in with your user name 
-   - your user name is your email address
-   - your password will be whatever you first input as a password
-3. In the top right corner click "New" -> "terminal" (this will open a terminal window)
-4. Clone the GitHub repository
+Clone the GitHub repository
 ```
 git clone TBA
 ```
