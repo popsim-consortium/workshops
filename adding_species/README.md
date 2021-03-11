@@ -17,7 +17,7 @@ double-check the URL - you probably have a typo.
 ### Screen setup
 
 In this workshop we will be using four different windows - 
-The zoom call, the GitHub and JupyterHub, the stdpopsim docs, and Slack.
+The zoom call, your terminal, the stdpopsim docs, and Slack.
 We highly recommend during the workshop participants have two monitors available. 
 If you only have one monitor available, you may choose to flip through the necessary windows,
 or you can have all four windows up at once. 
