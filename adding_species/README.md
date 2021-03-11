@@ -9,11 +9,7 @@ You may also need the other packages listed in the [environment.yml](https://git
 
 If you run into any problems, ask for help in the #workshops or #newbie-help channels on Slack (popsimgroup.slack.com).
 
-At least 15 minutes before the workshop:
-Clone the GitHub repository, link TBA
-```
-git clone ...
-```
+The first steps of the workshop will walk you through making your own fork and cloning it to your local machine.
 *Note:* If you are asked for username/password when cloning the repository,
 double-check the URL - you probably have a typo.
 
