@@ -4,7 +4,7 @@
 
 Important!
 At least 15 minutes before the workshop:
-1. Click the JupyterHub link (http://165.232.136.70/)
+1. Click the JupyterHub link (provided to you separately)
 2. Log in with your user name 
    - your user name is your email address
    - your password will be whatever you first input as a password
@@ -27,24 +27,6 @@ or you can have all four windows up at once.
 Here is a recommendation on how to arrange your screen with all four windows.
 
 ![](images/workshop_windows.png)
-
--------------------------
-## Febuary Workshop Series
-
-### Americas
-**Date and Time:** Monday, February 22nd, 10-11:30AM PST; 1-2:30PM EST; 7-8:30PM CET; 5-6:30AM AEDT (Feb. 23rd)  
-**Instructor:** Andy Kern, University of Oregon  
-**Helpers:** Ilan Gronau, Elise Lauterbur, Manny Vasquez
-
-### Transatlantic
-**Date and Time:** Wednesday, February 24th, 5-6:30PM CET; 8-9:30AM PST; 11AM-12:30PM EST; 3-4:30AM AEDT (Feb. 25th)  
-**Instructor:** Jerome Kelleher, University of Oxford  
-**Helpers:** Ilan Gronau, Izabel Cavassim
-
-### Australasia
-**Date and Time:** Friday, February 26th, 12-1:30PM AEDT; 2-3:30AM CET; 5-6:30PM PST (Feb. 25th); 8-9:30PM EST (Feb. 25th)  
-**Instructor:** Peter Ralph, University of Oregon   
-**Helpers:** Georgia Tsambos, Ariella Gladstein, Manny Vasquez
 
 -------------------------
 **Short Summary of topic:** In this free, hands on virtual workshop we will go over the basics of using the stdpopsim library to simulate published demographic models from a variety of organisms. We will cover how to navigate the library catalog, how to simulate using the Python API and command line interface, and an example analysis on the simulated data.
