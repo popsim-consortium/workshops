@@ -25,6 +25,6 @@ dependencies:
         - scikit-allel
         - matplotlib
         - progressbar
-
+        - slim=4.0
         - pip:
                   - git+https://github.com/popsim-consortium/stdpopsim.git
