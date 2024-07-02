@@ -16,6 +16,23 @@ git clone https://github.com/popsim-consortium/workshops.git
 *Note:* If you are asked for username/password when cloning the repository,
 double-check the URL - you probably have a typo.
 
+## Local setup (on your own machine) if you like
+
+We have created a `conda` environment that allows you to install
+everything you need to run this workshop without the virtual server. 
+Assuming you have `git` installed, start by cloning the repo
+```
+git clone https://github.com/popsim-consortium/workshops.git
+```
+then `cd` into that dir, and use `conda` to create the stdpopsim-environment
+virtual environment for running the materials
+```
+cd workshops
+conda env create -f environment.yml
+```
+This will download and install all the needed software. 
+Activate the newly create environment and fire up a jupyter lab instance
+to go through the materials. 
 
 ### Screen setup
 
