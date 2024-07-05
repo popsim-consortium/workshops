@@ -1,4 +1,4 @@
-# This file contains the Conda environment configuration for running stdpopsim 
+# This file contains the Conda environment configuration for running stdpopsim
 # in a Dockerized image on Binder, accessible through https://mybinder.org/.
 # Binder enables any Jupyter notebooks in the repository to be run interactively and
 # reproducibly in a stable cloud-based environment.
@@ -11,11 +11,20 @@ channels:
         - conda-forge
         - bioconda
 dependencies:
+        - python=3.10
+        - pip
+        - git
         - numpy
         - pandas
+        - jupyter
+        - jupyterlab
+        - ipywidgets
+        - ipython
         - msprime
-        - stdpopsim
         - seaborn
         - scikit-allel
         - matplotlib
         - progressbar
+        - slim=4.0
+        - pip:
+                  - git+https://github.com/popsim-consortium/stdpopsim.git
