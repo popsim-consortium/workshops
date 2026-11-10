@@ -17,6 +17,7 @@ dependencies:
         - numpy
         - pandas
         - jupyter
+        - dask
         - jupyterlab
         - ipywidgets
         - ipython
